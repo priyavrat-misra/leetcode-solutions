@@ -1,4 +1,4 @@
-# Leetcode Study Plans
+# LeetCode Study Plans
 
 - [Programming Skills](#programming-skills)
 - [Data Structure](#data-structure)

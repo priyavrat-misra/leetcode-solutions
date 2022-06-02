@@ -10,16 +10,13 @@
  */
 class Solution {
 public:
-    ListNode* middleNode(ListNode* head) {
-        ListNode *j = head;
-        while (j) {
-            j = j -> next;
-            if (j)
-                j = j -> next;
-            else
-                break;
+    int ans = 0;
+    int getDecimalValue(ListNode* head) {
+        int ans = head -> val;
+        while (head -> next) {
+            ans = ans << 1 | head -> next -> val;
             head = head -> next;
         }
-        return head;
+        return ans;
     }
 };
