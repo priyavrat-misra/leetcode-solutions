@@ -24,7 +24,7 @@ public:
     }
     
     bool empty() {
-        return l.empty() and r.empty();
+        return l.empty() && r.empty();
     }
 };
 
