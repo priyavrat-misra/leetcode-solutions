@@ -1,4 +1,4 @@
-# LeetCode Study Plans
+# To-Do List
 
 - [Programming Skills](#programming-skills)
 - [Data Structure](#data-structure)
@@ -67,9 +67,9 @@
 		<li>[x] 0048. Rotate Image</li>
 		<li>[x] 1886. Determine Whether Matrix Can Be Obtained By Rotation</li>
 		<li>[x] 0054. Spiral Matrix</li>
-		<li>[ ] 0973. K Closest Points to Origin</li>
-		<li>[ ] 1630. Arithmetic Subarrays</li>
-		<li>[ ] 0429. N-ary Tree Level Order Traversal</li>
+		<li>[x] 0973. K Closest Points to Origin</li>
+		<li>[x] 1630. Arithmetic Subarrays</li>
+		<li>[x] 0429. N-ary Tree Level Order Traversal</li>
 		<li>[ ] 0503. Next Greater Element II</li>
 		<li>[ ] 0556. Next Greater Element III</li>
 		<li>[ ] 1376. Time Needed to Inform All Employees</li>
