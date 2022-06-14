@@ -36,9 +36,9 @@ public:
             for (int i = 0; i < len; ++i) {
                 f = q.front();
                 q.pop();
+                lvl.push_back(f -> val);
                 for (Node* &child : f -> children)
                     q.push(child);
-                lvl.push_back(f -> val);
             }
             ans.push_back(lvl);
         }
