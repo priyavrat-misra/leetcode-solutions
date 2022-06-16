@@ -74,7 +74,7 @@
 		<li>[x] 0556. Next Greater Element III</li>
 		<li>[x] 1376. Time Needed to Inform All Employees</li>
 		<li>[x] 0049. Group Anagrams</li>
-		<li>[ ] 0438. Find All Anagrams in a String</li>
+		<li>[x] 0438. Find All Anagrams in a String</li>
 		<li>[ ] 0713. Subarray Product Less Than K</li>
 		<li>[ ] 0304. Range Sum Query 2D - Immutable</li>
 		<li>[ ] 0910. Smallest Range II</li>
