@@ -59,7 +59,7 @@
 		<li>[x] 0150. Evaluate Reverse Polish Notation</li>
 		<li>[x] 0066. Plus One</li>
 		<li>[ ] 1367. Linked List in Binary Tree</li>
-		<li>[ ] 0043. Multiply Strings</li>
+		<li>[x] 0043. Multiply Strings</li>
 		<li>[x] 0067. Add Binary</li>
 		<li>[x] 0989. Add to Array-Form of Integer</li>
 		<li>[ ] 0739. Daily Temperatures</li>
