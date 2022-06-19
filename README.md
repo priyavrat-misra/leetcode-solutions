@@ -78,7 +78,7 @@
 		<li>[x] 0713. Subarray Product Less Than K</li>
 		<li>[ ] 0304. Range Sum Query 2D - Immutable</li>
 		<li>[ ] 0910. Smallest Range II</li>
-		<li>[ ] 0143. Reorder List</li>
+		<li>[x] 0143. Reorder List</li>
 		<li>[ ] 0138. Copy List with Random Pointer</li>
 		<li>[ ] 0002. Add Two Numbers</li>
 		<li>[ ] 0445. Add Two Numbers II</li>
