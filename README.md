@@ -62,7 +62,7 @@
 		<li>[x] 0043. Multiply Strings</li>
 		<li>[x] 0067. Add Binary</li>
 		<li>[x] 0989. Add to Array-Form of Integer</li>
-		<li>[ ] 0739. Daily Temperatures</li>
+		<li>[x] 0739. Daily Temperatures</li>
 		<li>[x] 0058. Length of Last Word</li>
 		<li>[x] 0048. Rotate Image</li>
 		<li>[x] 1886. Determine Whether Matrix Can Be Obtained By Rotation</li>
@@ -76,8 +76,8 @@
 		<li>[x] 0049. Group Anagrams</li>
 		<li>[x] 0438. Find All Anagrams in a String</li>
 		<li>[x] 0713. Subarray Product Less Than K</li>
-		<li>[ ] 0304. Range Sum Query 2D - Immutable</li>
-		<li>[ ] 0910. Smallest Range II</li>
+		<li>[x] 0304. Range Sum Query 2D - Immutable</li>
+		<li>[x] 0910. Smallest Range II</li>
 		<li>[x] 0143. Reorder List</li>
 		<li>[ ] 0138. Copy List with Random Pointer</li>
 		<li>[ ] 0002. Add Two Numbers</li>
