@@ -79,14 +79,14 @@
 		<li>[x] 0304. Range Sum Query 2D - Immutable</li>
 		<li>[x] 0910. Smallest Range II</li>
 		<li>[x] 0143. Reorder List</li>
-		<li>[ ] 0138. Copy List with Random Pointer</li>
-		<li>[ ] 0002. Add Two Numbers</li>
+		<li>[x] 0138. Copy List with Random Pointer</li>
+		<li>[x] 0002. Add Two Numbers</li>
 		<li>[ ] 0445. Add Two Numbers II</li>
 		<li>[x] 0061. Rotate List</li>
 		<li>[x] 0173. Binary Search Tree Iterator</li>
-		<li>[ ] 1845. Seat Reservation Manager</li>
-		<li>[ ] 0860. Lemonade Change</li>
-		<li>[ ] 0155. Min Stack</li>
+		<li>[x] 1845. Seat Reservation Manager</li>
+		<li>[x] 0860. Lemonade Change</li>
+		<li>[x] 0155. Min Stack</li>
 		<li>[ ] 0341. Flatten Nested List Iterator</li>
 		<li>[ ] 1797. Design Authentication Manager</li>
 		<li>[ ] 0707. Design Linked List</li>
