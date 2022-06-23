@@ -81,7 +81,7 @@
 		<li>[x] 0143. Reorder List</li>
 		<li>[x] 0138. Copy List with Random Pointer</li>
 		<li>[x] 0002. Add Two Numbers</li>
-		<li>[ ] 0445. Add Two Numbers II</li>
+		<li>[x] 0445. Add Two Numbers II</li>
 		<li>[x] 0061. Rotate List</li>
 		<li>[x] 0173. Binary Search Tree Iterator</li>
 		<li>[x] 1845. Seat Reservation Manager</li>
