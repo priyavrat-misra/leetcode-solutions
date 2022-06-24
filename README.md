@@ -87,12 +87,12 @@
 		<li>[x] 1845. Seat Reservation Manager</li>
 		<li>[x] 0860. Lemonade Change</li>
 		<li>[x] 0155. Min Stack</li>
-		<li>[ ] 0341. Flatten Nested List Iterator</li>
-		<li>[ ] 1797. Design Authentication Manager</li>
-		<li>[ ] 0707. Design Linked List</li>
-		<li>[ ] 0380. Insert Delete GetRandom O(1)</li>
-		<li>[ ] 0622. Design Circular Queue</li>
-		<li>[ ] 0729. My Calendar I</li>
+		<li>[x] 0341. Flatten Nested List Iterator</li>
+		<li>[x] 1797. Design Authentication Manager</li>
+		<li>[x] 0707. Design Linked List</li>
+		<li>[x] 0380. Insert Delete GetRandom O(1)</li>
+		<li>[x] 0622. Design Circular Queue</li>
+		<li>[x] 0729. My Calendar I</li>
 	</ul>
 </details>
 <details>
