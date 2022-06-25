@@ -7,6 +7,7 @@
 - [Dynamic Programming](#dynamic-programming)
 - [Binary Search](#binary-search)
 - [SQL](#sql)
+- [LeetCode 75](#leetcode-75)
 
 ## Programming Skills
 
@@ -931,10 +932,10 @@
 <details>
 	<summary><b>SQL I</b></summary>
 	<ul>
-		<li>[ ] 0595. Big Countries</li>
-		<li>[ ] 1757. Recyclable and Low Fat Products</li>
-		<li>[ ] 0584. Find Customer Referee</li>
-		<li>[ ] 0183. Customers Who Never Order</li>
+		<li>[x] 0595. Big Countries</li>
+		<li>[x] 1757. Recyclable and Low Fat Products</li>
+		<li>[x] 0584. Find Customer Referee</li>
+		<li>[x] 0183. Customers Who Never Order</li>
 		<li>[ ] 1873. Calculate Special Bonus</li>
 		<li>[ ] 0627. Swap Salary</li>
 		<li>[ ] 0196. Delete Duplicate Emails</li>
@@ -1041,5 +1042,43 @@
 		<li>[ ] 1454. Active Users</li>
 		<li>[ ] 0618. Students Report By Geography</li>
 		<li>[ ] 2010. The Number of Seniors and Juniors to Join the Company II</li>
+	</ul>
+</details>
+
+## LeetCode 75
+
+<details>
+	<summary><b>Level 1</b></summary>
+	<ul>
+		<li>[x] 1480. Running Sum of 1d Array</li>
+		<li>[x] 0724. Find Pivot Index</li>
+		<li>[ ] 0205. Isomorphic Strings</li>
+		<li>[ ] 0392. Is Subsequence</li>
+		<li>[ ] 0021. Merge Two Sorted Lists</li>
+		<li>[ ] 0206. Reverse Linked List</li>
+		<li>[ ] 0876. Middle of the Linked List</li>
+		<li>[ ] 0142. Linked List Cycle II</li>
+		<li>[ ] 0121. Best Time to Buy and Sell Stock</li>
+		<li>[ ] 0409. Longest Palindrome</li>
+		<li>[ ] 0589. N-ary Tree Preorder Traversal</li>
+		<li>[ ] 0102. Binary Tree Level Order Traversal</li>
+		<li>[ ] 0704. Binary Search</li>
+		<li>[ ] 0278. First Bad Version</li>
+		<li>[ ] 0098. Validate Binary Search Tree</li>
+		<li>[ ] 0235. Lowest Common Ancestor of a Binary Search Tree</li>
+		<li>[ ] 0733. Flood Fill</li>
+		<li>[ ] 0200. Number of Islands</li>
+		<li>[ ] 0509. Fibonacci Number</li>
+		<li>[ ] 0070. Climbing Stairs</li>
+		<li>[ ] 0746. Min Cost Climbing Stairs</li>
+		<li>[ ] 0062. Unique Paths</li>
+		<li>[ ] 0438. Find All Anagrams in a String</li>
+		<li>[ ] 0424. Longest Repeating Character Replacement</li>
+		<li>[ ] 0001. Two Sum</li>
+		<li>[ ] 0299. Bulls and Cows</li>
+		<li>[ ] 0844. Backspace String Compare</li>
+		<li>[ ] 0394. Decode String</li>
+		<li>[ ] 1046. Last Stone Weight</li>
+		<li>[ ] 0692. Top K Frequent Words</li>
 	</ul>
 </details>
