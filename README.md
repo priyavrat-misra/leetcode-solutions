@@ -936,9 +936,9 @@
 		<li>[x] 1757. Recyclable and Low Fat Products</li>
 		<li>[x] 0584. Find Customer Referee</li>
 		<li>[x] 0183. Customers Who Never Order</li>
-		<li>[ ] 1873. Calculate Special Bonus</li>
-		<li>[ ] 0627. Swap Salary</li>
-		<li>[ ] 0196. Delete Duplicate Emails</li>
+		<li>[x] 1873. Calculate Special Bonus</li>
+		<li>[x] 0627. Swap Salary</li>
+		<li>[x] 0196. Delete Duplicate Emails</li>
 		<li>[ ] 1667. Fix Names in a Table</li>
 		<li>[ ] 1484. Group Sold Products By The Date</li>
 		<li>[ ] 1527. Patients With a Condition</li>
@@ -1053,7 +1053,7 @@
 		<li>[x] 1480. Running Sum of 1d Array</li>
 		<li>[x] 0724. Find Pivot Index</li>
 		<li>[ ] 0205. Isomorphic Strings</li>
-		<li>[ ] 0392. Is Subsequence</li>
+		<li>[x] 0392. Is Subsequence</li>
 		<li>[ ] 0021. Merge Two Sorted Lists</li>
 		<li>[ ] 0206. Reverse Linked List</li>
 		<li>[ ] 0876. Middle of the Linked List</li>
