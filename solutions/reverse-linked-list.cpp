@@ -9,16 +9,19 @@
  * };
  */
 class Solution {
-private:
-    ListNode* l = nullptr;
 public:
     ListNode* reverseList(ListNode* head) {
-        if (head and head -> next) {
-            l = reverseList(head -> next);
-            head -> next -> next = head;
-            head -> next = nullptr;
-            return l;
+        if (!head)
+            return nullptr;
+        if (!head -> next)
+            return head;
+        ListNode *a = nullptr, *b = head, *c;
+        while (b) {
+            c = b -> next;
+            b -> next = a;
+            a = b;
+            b = c;
         }
-        return head;
+        return a;
     }
 };
