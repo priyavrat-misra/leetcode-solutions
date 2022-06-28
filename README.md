@@ -1054,10 +1054,10 @@
 		<li>[x] 0724. Find Pivot Index</li>
 		<li>[ ] 0205. Isomorphic Strings</li>
 		<li>[x] 0392. Is Subsequence</li>
-		<li>[ ] 0021. Merge Two Sorted Lists</li>
-		<li>[ ] 0206. Reverse Linked List</li>
-		<li>[ ] 0876. Middle of the Linked List</li>
-		<li>[ ] 0142. Linked List Cycle II</li>
+		<li>[x] 0021. Merge Two Sorted Lists</li>
+		<li>[x] 0206. Reverse Linked List</li>
+		<li>[x] 0876. Middle of the Linked List</li>
+		<li>[x] 0142. Linked List Cycle II</li>
 		<li>[ ] 0121. Best Time to Buy and Sell Stock</li>
 		<li>[ ] 0409. Longest Palindrome</li>
 		<li>[ ] 0589. N-ary Tree Preorder Traversal</li>
