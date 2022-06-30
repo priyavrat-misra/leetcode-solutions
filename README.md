@@ -1060,8 +1060,8 @@
 		<li>[x] 0142. Linked List Cycle II</li>
 		<li>[x] 0121. Best Time to Buy and Sell Stock</li>
 		<li>[x] 0409. Longest Palindrome</li>
-		<li>[ ] 0589. N-ary Tree Preorder Traversal</li>
-		<li>[ ] 0102. Binary Tree Level Order Traversal</li>
+		<li>[x] 0589. N-ary Tree Preorder Traversal</li>
+		<li>[x] 0102. Binary Tree Level Order Traversal</li>
 		<li>[ ] 0704. Binary Search</li>
 		<li>[ ] 0278. First Bad Version</li>
 		<li>[ ] 0098. Validate Binary Search Tree</li>

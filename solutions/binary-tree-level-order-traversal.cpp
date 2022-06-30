@@ -16,14 +16,13 @@ public:
             return {};
         
         queue<TreeNode*> q;
-        vector<vector<int>> v;
-        TreeNode* f = nullptr;
         q.push(root);
-        int len;
+        TreeNode* f = nullptr;
+        vector<vector<int>> ans;
         while (!q.empty()) {
             vector<int> lvl;
-            len = q.size();
-            for (int i = 0; i < len; ++i) {
+            int len = q.size();
+            while (len--) {
                 f = q.front();
                 lvl.push_back(f -> val);
                 q.pop();
@@ -32,8 +31,8 @@ public:
                 if (f -> right)
                     q.push(f -> right);
             }
-            v.push_back(lvl);
+            ans.push_back(lvl);
         }
-        return v;
+        return ans;
     }
 };

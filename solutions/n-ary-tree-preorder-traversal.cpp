@@ -19,15 +19,22 @@ public:
 */
 
 class Solution {
-private:
-    vector<int> t;
 public:
     vector<int> preorder(Node* root) {
-        if (root) {
-            t.push_back(root -> val);
-            for(Node* &child : root -> children)
-                preorder(child);
+        if (!root)
+            return {};
+        
+        vector<int> ans;
+        stack<Node*> s;
+        Node* t = nullptr;
+        s.push(root);
+        while (!s.empty()) {
+            t = s.top();
+            s.pop();
+            ans.push_back(t -> val);
+            for (vector<Node*>::reverse_iterator it = (t -> children).rbegin(); it != (t -> children).rend(); ++it)
+                s.push(*it);
         }
-        return t;
+        return ans;
     }
 };
