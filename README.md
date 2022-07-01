@@ -1062,8 +1062,8 @@
 		<li>[x] 0409. Longest Palindrome</li>
 		<li>[x] 0589. N-ary Tree Preorder Traversal</li>
 		<li>[x] 0102. Binary Tree Level Order Traversal</li>
-		<li>[ ] 0704. Binary Search</li>
-		<li>[ ] 0278. First Bad Version</li>
+		<li>[x] 0704. Binary Search</li>
+		<li>[x] 0278. First Bad Version</li>
 		<li>[ ] 0098. Validate Binary Search Tree</li>
 		<li>[ ] 0235. Lowest Common Ancestor of a Binary Search Tree</li>
 		<li>[ ] 0733. Flood Fill</li>
