@@ -1064,8 +1064,8 @@
 		<li>[x] 0102. Binary Tree Level Order Traversal</li>
 		<li>[x] 0704. Binary Search</li>
 		<li>[x] 0278. First Bad Version</li>
-		<li>[ ] 0098. Validate Binary Search Tree</li>
-		<li>[ ] 0235. Lowest Common Ancestor of a Binary Search Tree</li>
+		<li>[x] 0098. Validate Binary Search Tree</li>
+		<li>[x] 0235. Lowest Common Ancestor of a Binary Search Tree</li>
 		<li>[ ] 0733. Flood Fill</li>
 		<li>[ ] 0200. Number of Islands</li>
 		<li>[ ] 0509. Fibonacci Number</li>
