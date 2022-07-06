@@ -1067,7 +1067,7 @@
 		<li>[x] 0098. Validate Binary Search Tree</li>
 		<li>[x] 0235. Lowest Common Ancestor of a Binary Search Tree</li>
 		<li>[x] 0733. Flood Fill</li>
-		<li>[ ] 0200. Number of Islands</li>
+		<li>[x] 0200. Number of Islands</li>
 		<li>[x] 0509. Fibonacci Number</li>
 		<li>[x] 0070. Climbing Stairs</li>
 		<li>[ ] 0746. Min Cost Climbing Stairs</li>
