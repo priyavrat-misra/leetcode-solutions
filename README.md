@@ -1052,7 +1052,7 @@
 	<ul>
 		<li>[x] 1480. Running Sum of 1d Array</li>
 		<li>[x] 0724. Find Pivot Index</li>
-		<li>[x] 0205. Isomorphic Strings</li>
+		<li>[ ] 0205. Isomorphic Strings</li>
 		<li>[x] 0392. Is Subsequence</li>
 		<li>[x] 0021. Merge Two Sorted Lists</li>
 		<li>[x] 0206. Reverse Linked List</li>
@@ -1070,12 +1070,12 @@
 		<li>[x] 0200. Number of Islands</li>
 		<li>[x] 0509. Fibonacci Number</li>
 		<li>[x] 0070. Climbing Stairs</li>
-		<li>[ ] 0746. Min Cost Climbing Stairs</li>
-		<li>[ ] 0062. Unique Paths</li>
+		<li>[x] 0746. Min Cost Climbing Stairs</li>
+		<li>[x] 0062. Unique Paths</li>
 		<li>[ ] 0438. Find All Anagrams in a String</li>
 		<li>[ ] 0424. Longest Repeating Character Replacement</li>
-		<li>[ ] 0001. Two Sum</li>
-		<li>[ ] 0299. Bulls and Cows</li>
+		<li>[x] 0001. Two Sum</li>
+		<li>[x] 0299. Bulls and Cows</li>
 		<li>[ ] 0844. Backspace String Compare</li>
 		<li>[ ] 0394. Decode String</li>
 		<li>[ ] 1046. Last Stone Weight</li>
