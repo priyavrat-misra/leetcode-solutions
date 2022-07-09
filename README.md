@@ -1076,9 +1076,9 @@
 		<li>[ ] 0424. Longest Repeating Character Replacement</li>
 		<li>[x] 0001. Two Sum</li>
 		<li>[x] 0299. Bulls and Cows</li>
-		<li>[ ] 0844. Backspace String Compare</li>
+		<li>[x] 0844. Backspace String Compare</li>
 		<li>[ ] 0394. Decode String</li>
-		<li>[ ] 1046. Last Stone Weight</li>
-		<li>[ ] 0692. Top K Frequent Words</li>
+		<li>[x] 1046. Last Stone Weight</li>
+		<li>[x] 0692. Top K Frequent Words</li>
 	</ul>
 </details>
