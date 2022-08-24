@@ -25,13 +25,15 @@ public:
         if (!head -> next)
             return true;
         
-        ListNode *mid = new ListNode, *t = head;
-        mid -> next = head;
+        ListNode list(-1, head);
+        ListNode *t = head, *mid = &list;
         while (t && t -> next) {
             mid = mid -> next;
             t = t -> next -> next;
         }
+        
         mid -> next = reverseList(mid -> next);
+        
         t = mid = mid -> next;
         while (head != mid) {
             if (head -> val != t -> val)
@@ -39,6 +41,7 @@ public:
             head = head -> next;
             t = t -> next;
         }
+        
         return true;
     }
 };
