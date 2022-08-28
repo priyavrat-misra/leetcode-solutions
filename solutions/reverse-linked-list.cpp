@@ -25,3 +25,27 @@ public:
         return a;
     }
 };
+
+/**
+ * class Solution {
+ * public:
+ *     void reverse(ListNode* t, ListNode** head) {
+ *         if (t -> next == nullptr) {
+ *             *head = t;
+ *             return;
+ *         }
+ *         reverse(t -> next, head);
+ *         t -> next -> next = t;
+ *         t -> next = nullptr;
+ *     }
+ * 
+ *     ListNode* reverseList(ListNode* head) {
+ *         if (!head || !head -> next)
+ *             return head;
+ * 
+ *         reverse(head, &head);
+ *         return head;
+ *     }
+ * };
+ */
+
