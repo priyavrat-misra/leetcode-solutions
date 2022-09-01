@@ -15,14 +15,12 @@ public:
     }
     
     int numIslands(vector<vector<char>>& grid) {
-        int ans = 0;
-        for (int i = 0; i < grid.size(); ++i)
-            for (int j = 0; j < grid[0].size(); ++j)
-                if (grid[i][j] == '1') {
-                    ++ans;
-                    dfs(grid, i, j);
-                }
-
+        int ans = 0, m = grid.size(), n = grid[0].size();
+        for (int i = 0; i < m; ++i)
+            for (int j = 0; j < n; ++j)
+                if (grid[i][j] == '1')
+                    ++ans, dfs(grid, i, j);
+        
         return ans;
     }
 };
