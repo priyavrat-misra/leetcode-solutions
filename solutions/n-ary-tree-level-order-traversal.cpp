@@ -25,18 +25,15 @@ public:
             return {};
         
         queue<Node*> q;
-        vector<vector<int>> ans;
-        Node* f = nullptr;
-        int len;
-        
         q.push(root);
+        vector<vector<int>> ans;
         while (!q.empty()) {
-            vector<int> lvl;
-            len = q.size();
+            int len = q.size();
+            vector<int> lvl(len);
             for (int i = 0; i < len; ++i) {
-                f = q.front();
+                Node* f = q.front();
                 q.pop();
-                lvl.push_back(f -> val);
+                lvl[i] = f -> val;
                 for (Node* &child : f -> children)
                     q.push(child);
             }
