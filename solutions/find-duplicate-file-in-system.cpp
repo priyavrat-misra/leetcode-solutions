@@ -10,8 +10,8 @@ public:
             getline(ss, pwd, ' ');
             while (getline(ss, s, ' ')) {
                 string file = pwd + '/' + s.substr(0, s.find('('));
-		        string content = s.substr(s.find('(') + 1, s.find(')') - s.find('(') - 1);
-		        files[content].push_back(file);
+		string content = s.substr(s.find('(') + 1, s.find(')') - s.find('(') - 1);
+		files[content].push_back(file);
             }
         }
         

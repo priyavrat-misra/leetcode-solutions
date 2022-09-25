@@ -1,6 +1,6 @@
 class MyCircularQueue {
 public:
-    int* q = nullptr;
+    int* q;
     int front = -1, rear = -1;
     const int size;
     
@@ -15,6 +15,7 @@ public:
             front = rear = 0;
         else
             rear = (rear + 1) % size;
+        
         q[rear] = value;
         return true;
     }
@@ -26,6 +27,7 @@ public:
             front = rear = -1;
         else
             front = (front + 1) % size;
+        
         return true;
     }
     
