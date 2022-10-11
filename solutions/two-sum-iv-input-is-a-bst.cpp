@@ -11,18 +11,19 @@
  */
 class Solution {
 public:
-    void inorderTraversal(TreeNode* root, vector<int>& v) {
+    vector<int> inorder;
+    void traverseInorder(TreeNode* root) {
         if (root) {
-            inorderTraversal(root -> left, v);
-            v.push_back(root -> val);
-            inorderTraversal(root -> right, v);
+            traverseInorder(root -> left);
+            inorder.push_back(root -> val);
+            traverseInorder(root -> right);
         }
     }
     
     bool findTarget(TreeNode* root, int k) {
-        vector<int> v;
-        inorderTraversal(root, v);
-        vector<int>::iterator i = v.begin(), j = v.end() - 1;
+        traverseInorder(root);
+        vector<int>::iterator i = inorder.begin();
+        vector<int>::iterator j = inorder.end() - 1;
         while (i < j) {
             if (*i + *j < k)
                 ++i;
